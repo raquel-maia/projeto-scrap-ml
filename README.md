@@ -2,19 +2,17 @@
 
 - Como rodar o web scraping?
 
-    🎯 ```bash
-scrapy crawl mercadolivre -o ../../data/data.jsonl
-```
-
+        🎯 ```bash
+    scrapy crawl mercadolivre -o ../../data/data.jsonl
+    ```
 - Como rodar o pandas?
 
-    '''bash
+        '''bash
 
-    🎯 python transformacao/main.py
-    ```
-
+        🎯 python transformacao/main.py
+        ```
 - Como rodar o streamlit 
 
-    ```bash
-    🎯 streamlit run dashboard/app.py 
-    ```
+        ```bash
+        🎯 streamlit run dashboard/app.py 
+        ```
