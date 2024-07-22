@@ -9,8 +9,8 @@ Este projeto  foi feito em **Python**, e tem como objetivo realizar a extração
 Além disso, ele abrange várias etapas do processo de engenharia de dados, incluindo a coleta, transformação e visualização dos dados. Aqui estão as partes específicas da engenharia de dados que o projeto envolve:
 
 1. **Coleta de Dados (Data Ingestion):**
-   - **Ferramenta Utilizada:** Scrapy
-   - **Descrição:** Coleta de dados de tênis esportivos no Mercado Livre através da instalação do scraping **(install Scrapy)**. 
+   - **Ferramenta Utilizada:** Scrapy **(install Scrapy)**.
+   - **Descrição:** Coleta de dados de tênis esportivos no Mercado Livre através da instalação do scraping  
 
 2. **Transformação de Dados (Data Transformation):**
    - **Ferramenta Utilizada:** Pandas **(install Pandas)**
@@ -37,7 +37,7 @@ Além disso, ele abrange várias etapas do processo de engenharia de dados, incl
 - Como rodar o streamlit 
 
         '''bash
-        
+
         🎯 streamlit run dashboard/app.py 
         
 ## Veja o projeto Finalizado 🔍
