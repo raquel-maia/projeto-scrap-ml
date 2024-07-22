@@ -24,13 +24,12 @@ Além disso, ele abrange várias etapas do processo de engenharia de dados, incl
 
 - Como rodar o web scraping?
 
-        🎯 ```bash
+   🎯 ```bash
     scrapy crawl mercadolivre -o ../../data/data.jsonl
     ```
 - Como rodar o pandas?
 
         '''bash
-
         🎯 python transformacao/main.py
         ```
 - Como rodar o streamlit 
